@@ -1,0 +1,13 @@
+------------------------root--global
+
+simp/
+	simp_hid3_root------0004
+
+full_hid25/
+	full_hid25_1--------0009
+	full_hid25_2--------0030
+
+random_sample/
+	random_80_percent-----0028---0013
+	random_70_percent-----0007---0009
+	random_60_percent-----0028---0008

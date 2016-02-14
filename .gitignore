@@ -1,0 +1,13 @@
+!classes/.gitignore
+*.pyc
+*.swp
+*.swo
+*.o
+*.so
+.DS_Store
+.settings/**
+
+#Eclipse files
+.project
+.classpath
+
