@@ -1,15 +1,13 @@
-# scp -P 130 model_select_list_version.py xliang@ambiguity.cs.stonybrook.edu:/home/xliang/CoreNLP_copy/python_tools/model_select_list_version.py
-
 import os
 import subprocess as sb
 
 ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__))) + '/'
 
 
-MODEL_FOLDER_LIST = ['learningRate/learning_rate_full/learning_rate_002/','learningRate/learning_rate_full/learning_rate_004/', 'learningRate/learning_rate_full/learning_rate_006/', 'learningRate/learning_rate_full/learning_rate_008/']
+MODEL_FOLDER_LIST = ['learningRate/learningRate_002/','random_sample/random_40_percent_/rdom_40_percent_re1/','random_sample/random_40_percent_re/random_40_percent_re3/','random_sample/random_40_percent_re/random_40_percent_re4/']
 TYPE = 'global'
-GOAL_PATH = 'myData/original/dev.txt'
-TEST_PATH = 'myData/original/test.txt'
+GOAL_PATH = 'myData/original/train.txt'
+TEST_PATH = 'myData/original/train.txt'
 
 
 EVAL_PATH = 'edu.stanford.nlp.sentiment.Evaluate_accuracy'
