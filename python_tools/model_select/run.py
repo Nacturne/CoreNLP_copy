@@ -1,6 +1,6 @@
 from tools import model_select
 
-MODEL_FOLDER_LIST = ['learning_rate_full/learning_rate_full/learning_rate_002/']
+MODEL_FOLDER_LIST = ['learning_rate/learning_rate_full/learning_rate_002/']
 for model in MODEL_FOLDER_LIST:
     result = model_select(MODEL_FOLDER = model,
                             TYPE = 'global',
