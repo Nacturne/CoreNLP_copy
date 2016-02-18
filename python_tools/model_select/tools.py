@@ -39,8 +39,6 @@ def model_select(MODEL_FOLDER = '',
         else:
             raise Exception('TYPE variable can not be recognized')
 
-        print '->{0}'.format(index),
-
 
     max_model = max(eval_dict, key=eval_dict.get)
 
