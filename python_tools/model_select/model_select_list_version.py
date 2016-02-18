@@ -3,7 +3,7 @@
 import os
 import subprocess as sb
 
-ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__))) + '/'
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__)))) + '/'
 
 
 MODEL_FOLDER_LIST = ['learningRate/learning_rate_full/learning_rate_002/','learningRate/learning_rate_full/learning_rate_004/', 'learningRate/learning_rate_full/learning_rate_006/', 'learningRate/learning_rate_full/learning_rate_008/']
