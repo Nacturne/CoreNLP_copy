@@ -1,11 +1,11 @@
 import random as rdm
 
 
-file_in = open('input/original/dev.txt', 'r')
-file_out = open('output/random_80_percent_dev.txt', 'w')
+file_in = open('input/original/train.txt', 'r')
+file_out = open('output/random_1_percent_train.txt', 'w')
 
 population = file_in.readlines()
-sample_num = int(len(population)*0.8)
+sample_num = int(len(population)*0.01)
 
 rdm.seed(1)
 samples = rdm.sample(population,sample_num)
