@@ -6,10 +6,10 @@ import subprocess as sb
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__)))) + '/'
 
 
-MODEL_FOLDER_LIST = ['learningRate/learning_rate_full/learning_rate_002/','learningRate/learning_rate_full/learning_rate_004/', 'learningRate/learning_rate_full/learning_rate_006/', 'learningRate/learning_rate_full/learning_rate_008/']
+MODEL_FOLDER_LIST = ['random_sample/random_20_percent_re/random_20_percent_re0/']
 TYPE = 'global'
-GOAL_PATH = 'myData/original/dev.txt'
-TEST_PATH = 'myData/original/test.txt'
+GOAL_PATH = 'myData/original/train.txt'
+TEST_PATH = 'myData/original/train.txt'
 
 
 EVAL_PATH = 'edu.stanford.nlp.sentiment.Evaluate_accuracy'
@@ -38,6 +38,8 @@ for MODEL_FOLDER in MODEL_FOLDER_LIST:
             eval_dict[model] = float(result[1])
         else:
             raise Exception('TYPE variable can not be recognized')
+
+	print('{0}\t{1}'.format(model,eval_dict[model]))    
 
     max_model = max(eval_dict, key=eval_dict.get)
 
