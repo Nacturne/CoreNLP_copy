@@ -1,12 +1,9 @@
-from Core import TreeClass as tc
+import pandas as pd
 
-file_in = open('input/original/dev.txt', 'r')
-file_out = open('output/non_neutral_dev.txt','w')
+data = pd.read_excel('input/full_hid25_re_f1.xlsx', sheetname=0,index_col=0, header=1)
+print(data)
 
-for line in file_in:
-    if not line[1] == '2':
-        file_out.write(line)
-
-file_out.close()
-file_in.close()
-
+writer = pd.ExcelWriter('input/test_write.xlsx', engine='xlsxwriter')
+worksheet = writer.sheets['Sheet2']
+worksheet.write(data)
+writer.save()
