@@ -6,10 +6,10 @@ import subprocess as sb
 
 
 # parameters:
-parent_folder = 'full_hid3_002/'
-eval_type = 'global'
-goal_path = 'myData/original/train.txt'
-test_path = 'myData/original/train.txt'
+parent_folder = 'simp/'
+eval_type = 'root'
+goal_path = 'myData/simplify/simp_dev.txt'
+test_path = 'myData/simplify/simp_test.txt'
 
 
 

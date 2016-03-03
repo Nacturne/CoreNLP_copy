@@ -6,10 +6,10 @@ import subprocess as sb
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__)))) + '/'
 
 
-MODEL_FOLDER_LIST = ['random_sample/random_20_percent_re/random_20_percent_re0/']
+MODEL_FOLDER_LIST = ['non_accu_noise/non_accu_noise_1/','non_accu_noise/non_accu_noise_2/','non_accu_noise/non_accu_noise_3/','non_accu_noise/non_accu_noise_4/','non_accu_noise/non_accu_noise_5/','non_accu_noise/non_accu_noise_6/','non_accu_noise/non_accu_noise_7/','non_accu_noise/non_accu_noise_8/','non_accu_noise/non_accu_noise_9/','non_accu_noise/non_accu_noise_10/','non_accu_noise/non_accu_noise_11/','non_accu_noise/non_accu_noise_12/','non_accu_noise/non_accu_noise_13/','non_accu_noise/non_accu_noise_14/','non_accu_noise/non_accu_noise_15/','non_accu_noise/non_accu_noise_16/','non_accu_noise/non_accu_noise_17/','non_accu_noise/non_accu_noise_18/','non_accu_noise/non_accu_noise_19/','non_accu_noise/non_accu_noise_20/']
 TYPE = 'global'
-GOAL_PATH = 'myData/original/train.txt'
-TEST_PATH = 'myData/original/train.txt'
+GOAL_PATH = 'myData/original/dev.txt'
+TEST_PATH = 'myData/original/test.txt'
 
 
 EVAL_PATH = 'edu.stanford.nlp.sentiment.Evaluate_accuracy'
@@ -39,7 +39,7 @@ for MODEL_FOLDER in MODEL_FOLDER_LIST:
         else:
             raise Exception('TYPE variable can not be recognized')
 
-	print('{0}\t{1}'.format(model,eval_dict[model]))    
+	#print('{0}\t{1}'.format(model,eval_dict[model]))    
 
     max_model = max(eval_dict, key=eval_dict.get)
 
