@@ -1,3 +1,14 @@
-x=[9861,6000,3755,2891,2405,1986,1707,1382,1210,1051,926,808,748,656,574,530,483,422,352,289,294,258,229,197,182,158,132,110,92,91]
-for counter, i in enumerate(x):
-    print '({0},{1})'.format(i, counter+1),
+file_in = open('input/original/test.txt', 'r')
+
+total = 0
+neutral = 0
+for line in file_in:
+    if line[0] == '(':
+        total += 1
+        if line[1] == '2':
+            neutral += 1
+
+print('total: {0}'.format(total))
+print('neutral: {0}'.format(neutral))
+print('portion: {0}'.format(neutral/float(total)))
+file_in.close()
