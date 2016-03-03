@@ -1,0 +1,8 @@
+(2 (2 with) (3 (3 (2 the) (2 courage)) (2 (2 of) (2 (2 its) (2 convictions)))))
+(2 (2 with) (2 (3 (2 the) (2 courage)) (2 (2 of) (2 (2 its) (2 convictions)))))
+(2 (2 without) (3 (3 (2 the) (2 courage)) (2 (2 of) (2 (2 its) (2 convictions)))))
+(2 (2 without) (2 (3 (2 the) (2 courage)) (2 (2 of) (2 (2 its) (2 convictions)))))
+(2 (2 (2 it) (2 (2 's) (2 (2 (2 sort) (2 of)) (3 true)))) (2 and))
+(2 (2 (2 it) (2 (2 's) (2 (2 (2 sort) (2 of)) (3 true)))) (2 and))
+(1 (1 (2 it) (1 (2 's) (2 (2 sort) (1 (2 of) (1 bogus))))) (2 and))
+(1 (1 (2 it) (1 (2 's) (1 (2 sort) (2 (2 of) (1 bogus))))) (2 and))

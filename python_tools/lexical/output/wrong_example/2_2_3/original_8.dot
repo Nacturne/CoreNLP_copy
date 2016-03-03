@@ -1,0 +1,100 @@
+digraph G{Node0 [label="3"]
+Node0 -> Node1
+Node0 -> Node3
+Node1 [label="2"]
+Node1 -> Node2
+Node3 [label="2"]
+Node3 -> Node4
+Node3 -> Node6
+Node2 [label="go"]
+Node4 [label="2"]
+Node4 -> Node5
+Node6 [label="3"]
+Node6 -> Node7
+Node6 -> Node15
+Node5 [label="to"]
+Node7 [label="2"]
+Node7 -> Node8
+Node7 -> Node13
+Node15 [label="3"]
+Node15 -> Node16
+Node15 -> Node18
+Node8 [label="2"]
+Node8 -> Node9
+Node8 -> Node11
+Node13 [label="2"]
+Node13 -> Node14
+Node16 [label="2"]
+Node16 -> Node17
+Node18 [label="2"]
+Node18 -> Node19
+Node18 -> Node21
+Node9 [label="2"]
+Node9 -> Node10
+Node11 [label="2"]
+Node11 -> Node12
+Node14 [label=":"]
+Node17 [label="to"]
+Node19 [label="2"]
+Node19 -> Node20
+Node21 [label="2"]
+Node21 -> Node22
+Node21 -> Node24
+Node10 [label="the"]
+Node12 [label="cinema"]
+Node20 [label="be"]
+Node22 [label="2"]
+Node22 -> Node23
+Node24 [label="3"]
+Node24 -> Node25
+Node24 -> Node27
+Node23 [label="fed"]
+Node25 [label="2"]
+Node25 -> Node26
+Node27 [label="2"]
+Node27 -> Node28
+Node27 -> Node36
+Node26 [label="through"]
+Node28 [label="2"]
+Node28 -> Node29
+Node28 -> Node34
+Node36 [label="3"]
+Node36 -> Node37
+Node36 -> Node45
+Node29 [label="2"]
+Node29 -> Node30
+Node29 -> Node32
+Node34 [label="2"]
+Node34 -> Node35
+Node37 [label="3"]
+Node37 -> Node38
+Node37 -> Node43
+Node45 [label="2"]
+Node45 -> Node46
+Node45 -> Node48
+Node30 [label="2"]
+Node30 -> Node31
+Node32 [label="2"]
+Node32 -> Node33
+Node35 [label=","]
+Node38 [label="2"]
+Node38 -> Node39
+Node38 -> Node41
+Node43 [label="2"]
+Node43 -> Node44
+Node46 [label="2"]
+Node46 -> Node47
+Node48 [label="2"]
+Node48 -> Node49
+Node31 [label="the"]
+Node33 [label="eye"]
+Node39 [label="2"]
+Node39 -> Node40
+Node41 [label="2"]
+Node41 -> Node42
+Node44 [label=","]
+Node47 [label="the"]
+Node49 [label="mind"]
+Node40 [label="the"]
+Node42 [label="heart"]
+}

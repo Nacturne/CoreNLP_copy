@@ -1,0 +1,94 @@
+digraph G{Node0 [label="1"]
+Node0 -> Node1
+Node0 -> Node36
+Node1 [label="3"]
+Node1 -> Node2
+Node1 -> Node34
+Node36 [label="1"]
+Node36 -> Node37
+Node36 -> Node42
+Node2 [label="3"]
+Node2 -> Node3
+Node2 -> Node32
+Node34 [label="2"]
+Node34 -> Node35
+Node37 [label="2"]
+Node37 -> Node38
+Node37 -> Node40
+Node42 [label="2"]
+Node42 -> Node43
+Node42 -> Node45
+Node3 [label="3"]
+Node3 -> Node4
+Node3 -> Node6
+Node32 [label="2"]
+Node32 -> Node33
+Node35 [label="but"]
+Node38 [label="2"]
+Node38 -> Node39
+Node40 [label="2"]
+Node40 -> Node41
+Node43 [label="2"]
+Node43 -> Node44
+Node45 [label="2"]
+Node45 -> Node46
+Node4 [label="2"]
+Node4 -> Node5
+Node6 [label="3"]
+Node6 -> Node7
+Node6 -> Node9
+Node33 [label=","]
+Node39 [label="do"]
+Node41 [label="n't"]
+Node44 [label="be"]
+Node46 [label="fooled"]
+Node5 [label="do"]
+Node7 [label="2"]
+Node7 -> Node8
+Node9 [label="3"]
+Node9 -> Node10
+Node9 -> Node12
+Node8 [label="some"]
+Node10 [label="2"]
+Node10 -> Node11
+Node12 [label="3"]
+Node12 -> Node13
+Node12 -> Node21
+Node11 [label="of"]
+Node13 [label="3"]
+Node13 -> Node14
+Node13 -> Node16
+Node21 [label="2"]
+Node21 -> Node22
+Node21 -> Node24
+Node14 [label="2"]
+Node14 -> Node15
+Node16 [label="4"]
+Node16 -> Node17
+Node16 -> Node19
+Node22 [label="2"]
+Node22 -> Node23
+Node24 [label="2"]
+Node24 -> Node25
+Node24 -> Node27
+Node15 [label="their"]
+Node17 [label="4"]
+Node17 -> Node18
+Node19 [label="2"]
+Node19 -> Node20
+Node23 [label="in"]
+Node25 [label="2"]
+Node25 -> Node26
+Node27 [label="2"]
+Node27 -> Node28
+Node27 -> Node30
+Node18 [label="best"]
+Node20 [label="work"]
+Node26 [label="their"]
+Node28 [label="2"]
+Node28 -> Node29
+Node30 [label="2"]
+Node30 -> Node31
+Node29 [label="underwritten"]
+Node31 [label="roles"]
+}

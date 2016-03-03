@@ -1,0 +1,136 @@
+digraph G{Node0 [label="1"]
+Node0 -> Node1
+Node0 -> Node12
+Node1 [label="2"]
+Node1 -> Node2
+Node1 -> Node4
+Node12 [label="1"]
+Node12 -> Node13
+Node12 -> Node66
+Node2 [label="2"]
+Node2 -> Node3
+Node4 [label="2"]
+Node4 -> Node5
+Node4 -> Node7
+Node13 [label="3"]
+Node13 -> Node14
+Node13 -> Node37
+Node66 [label="2"]
+Node66 -> Node67
+Node3 [label="Son"]
+Node5 [label="2"]
+Node5 -> Node6
+Node7 [label="2"]
+Node7 -> Node8
+Node7 -> Node10
+Node14 [label="2"]
+Node14 -> Node15
+Node14 -> Node35
+Node37 [label="3"]
+Node37 -> Node38
+Node37 -> Node43
+Node67 [label="."]
+Node6 [label="of"]
+Node8 [label="2"]
+Node8 -> Node9
+Node10 [label="2"]
+Node10 -> Node11
+Node15 [label="1"]
+Node15 -> Node16
+Node15 -> Node18
+Node35 [label="2"]
+Node35 -> Node36
+Node38 [label="1"]
+Node38 -> Node39
+Node38 -> Node41
+Node43 [label="3"]
+Node43 -> Node44
+Node43 -> Node46
+Node9 [label="the"]
+Node11 [label="Bride"]
+Node16 [label="2"]
+Node16 -> Node17
+Node18 [label="1"]
+Node18 -> Node19
+Node18 -> Node21
+Node36 [label="but"]
+Node39 [label="3"]
+Node39 -> Node40
+Node41 [label="2"]
+Node41 -> Node42
+Node44 [label="2"]
+Node44 -> Node45
+Node46 [label="3"]
+Node46 -> Node47
+Node46 -> Node55
+Node17 [label="may"]
+Node19 [label="2"]
+Node19 -> Node20
+Node21 [label="1"]
+Node21 -> Node22
+Node21 -> Node30
+Node40 [label="comes"]
+Node42 [label="replete"]
+Node45 [label="with"]
+Node47 [label="3"]
+Node47 -> Node48
+Node47 -> Node50
+Node55 [label="2"]
+Node55 -> Node56
+Node55 -> Node58
+Node20 [label="be"]
+Node22 [label="3"]
+Node22 -> Node23
+Node22 -> Node25
+Node30 [label="1"]
+Node30 -> Node31
+Node30 -> Node33
+Node48 [label="2"]
+Node48 -> Node49
+Node50 [label="3"]
+Node50 -> Node51
+Node50 -> Node53
+Node56 [label="2"]
+Node56 -> Node57
+Node58 [label="2"]
+Node58 -> Node59
+Node58 -> Node64
+Node23 [label="2"]
+Node23 -> Node24
+Node25 [label="3"]
+Node25 -> Node26
+Node25 -> Node28
+Node31 [label="2"]
+Node31 -> Node32
+Node33 [label="2"]
+Node33 -> Node34
+Node49 [label="a"]
+Node51 [label="3"]
+Node51 -> Node52
+Node53 [label="2"]
+Node53 -> Node54
+Node57 [label="of"]
+Node59 [label="2"]
+Node59 -> Node60
+Node59 -> Node62
+Node64 [label="2"]
+Node64 -> Node65
+Node24 [label="a"]
+Node26 [label="3"]
+Node26 -> Node27
+Node28 [label="2"]
+Node28 -> Node29
+Node32 [label="too"]
+Node34 [label="long"]
+Node52 [label="flattering"]
+Node54 [label="sense"]
+Node60 [label="2"]
+Node60 -> Node61
+Node62 [label="2"]
+Node62 -> Node63
+Node65 [label="quietness"]
+Node27 [label="good"]
+Node29 [label="half-hour"]
+Node61 [label="mystery"]
+Node63 [label="and"]
+}

@@ -1,0 +1,160 @@
+digraph G{Node0 [label="2"]
+Node0 -> Node1
+Node0 -> Node66
+Node1 [label="3"]
+Node1 -> Node2
+Node1 -> Node64
+Node66 [label="0"]
+Node66 -> Node67
+Node66 -> Node69
+Node2 [label="3"]
+Node2 -> Node3
+Node2 -> Node17
+Node64 [label="2"]
+Node64 -> Node65
+Node67 [label="2"]
+Node67 -> Node68
+Node69 [label="3"]
+Node69 -> Node70
+Node69 -> Node78
+Node3 [label="2"]
+Node3 -> Node4
+Node3 -> Node6
+Node17 [label="1"]
+Node17 -> Node18
+Node17 -> Node53
+Node65 [label=":"]
+Node68 [label="Nobody"]
+Node70 [label="3"]
+Node70 -> Node71
+Node70 -> Node73
+Node78 [label="2"]
+Node78 -> Node79
+Node4 [label="2"]
+Node4 -> Node5
+Node6 [label="2"]
+Node6 -> Node7
+Node6 -> Node9
+Node18 [label="3"]
+Node18 -> Node19
+Node18 -> Node51
+Node53 [label="1"]
+Node53 -> Node54
+Node53 -> Node59
+Node71 [label="2"]
+Node71 -> Node72
+Node73 [label="2"]
+Node73 -> Node74
+Node73 -> Node76
+Node79 [label="here"]
+Node5 [label="Ray"]
+Node7 [label="2"]
+Node7 -> Node8
+Node9 [label="2"]
+Node9 -> Node10
+Node9 -> Node12
+Node19 [label="3"]
+Node19 -> Node20
+Node19 -> Node49
+Node51 [label="2"]
+Node51 -> Node52
+Node54 [label="2"]
+Node54 -> Node55
+Node54 -> Node57
+Node59 [label="2"]
+Node59 -> Node60
+Node59 -> Node62
+Node72 [label="deserves"]
+Node74 [label="2"]
+Node74 -> Node75
+Node76 [label="2"]
+Node76 -> Node77
+Node8 [label="Liotta"]
+Node10 [label="2"]
+Node10 -> Node11
+Node12 [label="2"]
+Node12 -> Node13
+Node12 -> Node15
+Node20 [label="3"]
+Node20 -> Node21
+Node20 -> Node23
+Node49 [label="2"]
+Node49 -> Node50
+Node52 [label="but"]
+Node55 [label="2"]
+Node55 -> Node56
+Node57 [label="2"]
+Node57 -> Node58
+Node60 [label="2"]
+Node60 -> Node61
+Node62 [label="1"]
+Node62 -> Node63
+Node75 [label="any"]
+Node77 [label="prizes"]
+Node11 [label="and"]
+Node13 [label="2"]
+Node13 -> Node14
+Node15 [label="2"]
+Node15 -> Node16
+Node21 [label="2"]
+Node21 -> Node22
+Node23 [label="4"]
+Node23 -> Node24
+Node23 -> Node26
+Node50 [label=","]
+Node56 [label="do"]
+Node58 [label="n't"]
+Node61 [label="be"]
+Node63 [label="fooled"]
+Node14 [label="Jason"]
+Node16 [label="Patric"]
+Node22 [label="do"]
+Node24 [label="2"]
+Node24 -> Node25
+Node26 [label="3"]
+Node26 -> Node27
+Node26 -> Node29
+Node25 [label="some"]
+Node27 [label="2"]
+Node27 -> Node28
+Node29 [label="3"]
+Node29 -> Node30
+Node29 -> Node38
+Node28 [label="of"]
+Node30 [label="4"]
+Node30 -> Node31
+Node30 -> Node33
+Node38 [label="2"]
+Node38 -> Node39
+Node38 -> Node41
+Node31 [label="2"]
+Node31 -> Node32
+Node33 [label="4"]
+Node33 -> Node34
+Node33 -> Node36
+Node39 [label="2"]
+Node39 -> Node40
+Node41 [label="1"]
+Node41 -> Node42
+Node41 -> Node44
+Node32 [label="their"]
+Node34 [label="4"]
+Node34 -> Node35
+Node36 [label="2"]
+Node36 -> Node37
+Node40 [label="in"]
+Node42 [label="2"]
+Node42 -> Node43
+Node44 [label="1"]
+Node44 -> Node45
+Node44 -> Node47
+Node35 [label="best"]
+Node37 [label="work"]
+Node43 [label="their"]
+Node45 [label="2"]
+Node45 -> Node46
+Node47 [label="2"]
+Node47 -> Node48
+Node46 [label="underwritten"]
+Node48 [label="roles"]
+}

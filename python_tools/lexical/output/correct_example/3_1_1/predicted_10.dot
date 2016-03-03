@@ -1,0 +1,148 @@
+digraph G{Node0 [label="1"]
+Node0 -> Node1
+Node0 -> Node33
+Node1 [label="2"]
+Node1 -> Node2
+Node1 -> Node31
+Node33 [label="3"]
+Node33 -> Node34
+Node33 -> Node36
+Node2 [label="2"]
+Node2 -> Node3
+Node2 -> Node29
+Node31 [label="2"]
+Node31 -> Node32
+Node34 [label="2"]
+Node34 -> Node35
+Node36 [label="3"]
+Node36 -> Node37
+Node36 -> Node45
+Node3 [label="2"]
+Node3 -> Node4
+Node3 -> Node15
+Node29 [label="2"]
+Node29 -> Node30
+Node32 [label="but"]
+Node35 [label="it"]
+Node37 [label="2"]
+Node37 -> Node38
+Node37 -> Node43
+Node45 [label="4"]
+Node45 -> Node46
+Node45 -> Node48
+Node4 [label="2"]
+Node4 -> Node5
+Node4 -> Node7
+Node15 [label="2"]
+Node15 -> Node16
+Node15 -> Node18
+Node30 [label=","]
+Node38 [label="1"]
+Node38 -> Node39
+Node38 -> Node41
+Node43 [label="2"]
+Node43 -> Node44
+Node46 [label="3"]
+Node46 -> Node47
+Node48 [label="4"]
+Node48 -> Node49
+Node48 -> Node60
+Node5 [label="2"]
+Node5 -> Node6
+Node7 [label="2"]
+Node7 -> Node8
+Node7 -> Node10
+Node16 [label="2"]
+Node16 -> Node17
+Node18 [label="2"]
+Node18 -> Node19
+Node18 -> Node24
+Node39 [label="2"]
+Node39 -> Node40
+Node41 [label="2"]
+Node41 -> Node42
+Node44 [label="really"]
+Node47 [label="deliver"]
+Node49 [label="4"]
+Node49 -> Node50
+Node49 -> Node52
+Node60 [label="3"]
+Node60 -> Node61
+Node60 -> Node63
+Node6 [label="As"]
+Node8 [label="2"]
+Node8 -> Node9
+Node10 [label="3"]
+Node10 -> Node11
+Node10 -> Node13
+Node17 [label=","]
+Node19 [label="2"]
+Node19 -> Node20
+Node19 -> Node22
+Node24 [label="2"]
+Node24 -> Node25
+Node24 -> Node27
+Node40 [label="does"]
+Node42 [label="n't"]
+Node50 [label="2"]
+Node50 -> Node51
+Node52 [label="4"]
+Node52 -> Node53
+Node52 -> Node58
+Node61 [label="2"]
+Node61 -> Node62
+Node63 [label="2"]
+Node63 -> Node64
+Node63 -> Node66
+Node9 [label="a"]
+Node11 [label="2"]
+Node11 -> Node12
+Node13 [label="3"]
+Node13 -> Node14
+Node20 [label="2"]
+Node20 -> Node21
+Node22 [label="2"]
+Node22 -> Node23
+Node25 [label="2"]
+Node25 -> Node26
+Node27 [label="2"]
+Node27 -> Node28
+Node51 [label="the"]
+Node53 [label="3"]
+Node53 -> Node54
+Node53 -> Node56
+Node58 [label="4"]
+Node58 -> Node59
+Node62 [label="of"]
+Node64 [label="2"]
+Node64 -> Node65
+Node66 [label="2"]
+Node66 -> Node67
+Node66 -> Node69
+Node12 [label="revenge"]
+Node14 [label="thriller"]
+Node21 [label="the"]
+Node23 [label="movie"]
+Node26 [label="is"]
+Node28 [label="serviceable"]
+Node54 [label="3"]
+Node54 -> Node55
+Node56 [label="1"]
+Node56 -> Node57
+Node59 [label="pleasure"]
+Node65 [label="the"]
+Node67 [label="4"]
+Node67 -> Node68
+Node69 [label="2"]
+Node69 -> Node70
+Node69 -> Node72
+Node55 [label="delicious"]
+Node57 [label="guilty"]
+Node68 [label="better"]
+Node70 [label="2"]
+Node70 -> Node71
+Node72 [label="2"]
+Node72 -> Node73
+Node71 [label="film"]
+Node73 [label="versions"]
+}

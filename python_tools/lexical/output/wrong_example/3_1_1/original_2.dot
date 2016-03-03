@@ -1,0 +1,88 @@
+digraph G{Node0 [label="1"]
+Node0 -> Node1
+Node0 -> Node12
+Node1 [label="3"]
+Node1 -> Node2
+Node1 -> Node4
+Node12 [label="1"]
+Node12 -> Node13
+Node12 -> Node15
+Node2 [label="2"]
+Node2 -> Node3
+Node4 [label="2"]
+Node4 -> Node5
+Node4 -> Node7
+Node13 [label="2"]
+Node13 -> Node14
+Node15 [label="0"]
+Node15 -> Node16
+Node15 -> Node18
+Node3 [label="a"]
+Node5 [label="1"]
+Node5 -> Node6
+Node7 [label="3"]
+Node7 -> Node8
+Node7 -> Node10
+Node14 [label="that"]
+Node16 [label="2"]
+Node16 -> Node17
+Node18 [label="0"]
+Node18 -> Node19
+Node18 -> Node27
+Node6 [label="last-minute"]
+Node8 [label="4"]
+Node8 -> Node9
+Node10 [label="2"]
+Node10 -> Node11
+Node17 [label="'s"]
+Node19 [label="1"]
+Node19 -> Node20
+Node19 -> Node22
+Node27 [label="2"]
+Node27 -> Node28
+Node27 -> Node30
+Node9 [label="happy"]
+Node11 [label="ending"]
+Node20 [label="2"]
+Node20 -> Node21
+Node22 [label="1"]
+Node22 -> Node23
+Node22 -> Node25
+Node28 [label="2"]
+Node28 -> Node29
+Node30 [label="2"]
+Node30 -> Node31
+Node30 -> Node36
+Node21 [label="even"]
+Node23 [label="2"]
+Node23 -> Node24
+Node25 [label="2"]
+Node25 -> Node26
+Node29 [label="than"]
+Node31 [label="2"]
+Node31 -> Node32
+Node31 -> Node34
+Node36 [label="2"]
+Node36 -> Node37
+Node36 -> Node39
+Node24 [label="less"]
+Node26 [label="plausible"]
+Node32 [label="2"]
+Node32 -> Node33
+Node34 [label="2"]
+Node34 -> Node35
+Node37 [label="2"]
+Node37 -> Node38
+Node39 [label="2"]
+Node39 -> Node40
+Node39 -> Node42
+Node33 [label="the"]
+Node35 [label="rest"]
+Node38 [label="of"]
+Node40 [label="2"]
+Node40 -> Node41
+Node42 [label="2"]
+Node42 -> Node43
+Node41 [label="the"]
+Node43 [label="picture"]
+}

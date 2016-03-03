@@ -1,0 +1,34 @@
+digraph G{Node0 [label="3"]
+Node0 -> Node1
+Node0 -> Node3
+Node1 [label="2"]
+Node1 -> Node2
+Node3 [label="2"]
+Node3 -> Node4
+Node3 -> Node6
+Node2 [label="is"]
+Node4 [label="2"]
+Node4 -> Node5
+Node6 [label="2"]
+Node6 -> Node7
+Node6 -> Node9
+Node5 [label="a"]
+Node7 [label="3"]
+Node7 -> Node8
+Node9 [label="2"]
+Node9 -> Node10
+Node9 -> Node12
+Node8 [label="good"]
+Node10 [label="2"]
+Node10 -> Node11
+Node12 [label="2"]
+Node12 -> Node13
+Node12 -> Node15
+Node11 [label="place"]
+Node13 [label="2"]
+Node13 -> Node14
+Node15 [label="2"]
+Node15 -> Node16
+Node14 [label="to"]
+Node16 [label="start"]
+}

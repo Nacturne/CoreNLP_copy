@@ -1,0 +1,76 @@
+digraph G{Node0 [label="3"]
+Node0 -> Node1
+Node0 -> Node3
+Node1 [label="3"]
+Node1 -> Node2
+Node3 [label="2"]
+Node3 -> Node4
+Node3 -> Node6
+Node2 [label="nice"]
+Node4 [label="2"]
+Node4 -> Node5
+Node6 [label="2"]
+Node6 -> Node7
+Node6 -> Node9
+Node5 [label="to"]
+Node7 [label="2"]
+Node7 -> Node8
+Node9 [label="2"]
+Node9 -> Node10
+Node9 -> Node12
+Node8 [label="look"]
+Node10 [label="2"]
+Node10 -> Node11
+Node12 [label="2"]
+Node12 -> Node13
+Node12 -> Node15
+Node11 [label="at"]
+Node13 [label="2"]
+Node13 -> Node14
+Node15 [label="2"]
+Node15 -> Node16
+Node15 -> Node18
+Node14 [label="while"]
+Node16 [label="2"]
+Node16 -> Node17
+Node18 [label="2"]
+Node18 -> Node19
+Node18 -> Node21
+Node17 [label="you"]
+Node19 [label="2"]
+Node19 -> Node20
+Node21 [label="2"]
+Node21 -> Node22
+Node21 -> Node24
+Node20 [label="wait"]
+Node22 [label="2"]
+Node22 -> Node23
+Node24 [label="2"]
+Node24 -> Node25
+Node24 -> Node27
+Node23 [label="for"]
+Node25 [label="2"]
+Node25 -> Node26
+Node27 [label="2"]
+Node27 -> Node28
+Node27 -> Node30
+Node26 [label="the"]
+Node28 [label="2"]
+Node28 -> Node29
+Node30 [label="2"]
+Node30 -> Node31
+Node30 -> Node33
+Node29 [label="story"]
+Node31 [label="2"]
+Node31 -> Node32
+Node33 [label="2"]
+Node33 -> Node34
+Node33 -> Node36
+Node32 [label="to"]
+Node34 [label="2"]
+Node34 -> Node35
+Node36 [label="2"]
+Node36 -> Node37
+Node35 [label="get"]
+Node37 [label="going"]
+}

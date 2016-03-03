@@ -1,0 +1,70 @@
+digraph G{Node0 [label="2"]
+Node0 -> Node1
+Node0 -> Node18
+Node1 [label="3"]
+Node1 -> Node2
+Node1 -> Node16
+Node18 [label="0"]
+Node18 -> Node19
+Node18 -> Node27
+Node2 [label="4"]
+Node2 -> Node3
+Node2 -> Node14
+Node16 [label="2"]
+Node16 -> Node17
+Node19 [label="1"]
+Node19 -> Node20
+Node19 -> Node25
+Node27 [label="2"]
+Node27 -> Node28
+Node27 -> Node30
+Node3 [label="4"]
+Node3 -> Node4
+Node3 -> Node9
+Node14 [label="2"]
+Node14 -> Node15
+Node17 [label="or"]
+Node20 [label="1"]
+Node20 -> Node21
+Node20 -> Node23
+Node25 [label="1"]
+Node25 -> Node26
+Node28 [label="2"]
+Node28 -> Node29
+Node30 [label="2"]
+Node30 -> Node31
+Node30 -> Node33
+Node4 [label="2"]
+Node4 -> Node5
+Node4 -> Node7
+Node9 [label="4"]
+Node9 -> Node10
+Node9 -> Node12
+Node15 [label=","]
+Node21 [label="1"]
+Node21 -> Node22
+Node23 [label="2"]
+Node23 -> Node24
+Node26 [label="frustrated"]
+Node29 [label="by"]
+Node31 [label="2"]
+Node31 -> Node32
+Node33 [label="2"]
+Node33 -> Node34
+Node5 [label="3"]
+Node5 -> Node6
+Node7 [label="2"]
+Node7 -> Node8
+Node10 [label="4"]
+Node10 -> Node11
+Node12 [label="2"]
+Node12 -> Node13
+Node22 [label="bored"]
+Node24 [label="or"]
+Node32 [label="the"]
+Node34 [label="film"]
+Node6 [label="moved"]
+Node8 [label="and"]
+Node11 [label="love"]
+Node13 [label="it"]
+}

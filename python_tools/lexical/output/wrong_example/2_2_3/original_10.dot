@@ -1,0 +1,52 @@
+digraph G{Node0 [label="3"]
+Node0 -> Node1
+Node0 -> Node3
+Node1 [label="2"]
+Node1 -> Node2
+Node3 [label="2"]
+Node3 -> Node4
+Node3 -> Node12
+Node2 [label="through"]
+Node4 [label="2"]
+Node4 -> Node5
+Node4 -> Node10
+Node12 [label="3"]
+Node12 -> Node13
+Node12 -> Node21
+Node5 [label="2"]
+Node5 -> Node6
+Node5 -> Node8
+Node10 [label="2"]
+Node10 -> Node11
+Node13 [label="3"]
+Node13 -> Node14
+Node13 -> Node19
+Node21 [label="2"]
+Node21 -> Node22
+Node21 -> Node24
+Node6 [label="2"]
+Node6 -> Node7
+Node8 [label="2"]
+Node8 -> Node9
+Node11 [label=","]
+Node14 [label="2"]
+Node14 -> Node15
+Node14 -> Node17
+Node19 [label="2"]
+Node19 -> Node20
+Node22 [label="2"]
+Node22 -> Node23
+Node24 [label="2"]
+Node24 -> Node25
+Node7 [label="the"]
+Node9 [label="eye"]
+Node15 [label="2"]
+Node15 -> Node16
+Node17 [label="2"]
+Node17 -> Node18
+Node20 [label=","]
+Node23 [label="the"]
+Node25 [label="mind"]
+Node16 [label="the"]
+Node18 [label="heart"]
+}

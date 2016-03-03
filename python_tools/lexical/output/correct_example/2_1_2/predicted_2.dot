@@ -1,0 +1,82 @@
+digraph G{Node0 [label="2"]
+Node0 -> Node1
+Node0 -> Node3
+Node1 [label="2"]
+Node1 -> Node2
+Node3 [label="2"]
+Node3 -> Node4
+Node3 -> Node33
+Node2 [label="which"]
+Node4 [label="2"]
+Node4 -> Node5
+Node4 -> Node10
+Node33 [label="2"]
+Node33 -> Node34
+Node33 -> Node36
+Node5 [label="2"]
+Node5 -> Node6
+Node5 -> Node8
+Node10 [label="2"]
+Node10 -> Node11
+Node10 -> Node13
+Node34 [label="3"]
+Node34 -> Node35
+Node36 [label="2"]
+Node36 -> Node37
+Node36 -> Node39
+Node6 [label="2"]
+Node6 -> Node7
+Node8 [label="2"]
+Node8 -> Node9
+Node11 [label="2"]
+Node11 -> Node12
+Node13 [label="2"]
+Node13 -> Node14
+Node13 -> Node25
+Node35 [label="comes"]
+Node37 [label="2"]
+Node37 -> Node38
+Node39 [label="2"]
+Node39 -> Node40
+Node7 [label="the"]
+Node9 [label="reputation"]
+Node12 [label="of"]
+Node14 [label="2"]
+Node14 -> Node15
+Node14 -> Node17
+Node25 [label="2"]
+Node25 -> Node26
+Node25 -> Node28
+Node38 [label="into"]
+Node40 [label="question"]
+Node15 [label="2"]
+Node15 -> Node16
+Node17 [label="2"]
+Node17 -> Node18
+Node17 -> Node23
+Node26 [label="2"]
+Node26 -> Node27
+Node28 [label="2"]
+Node28 -> Node29
+Node28 -> Node31
+Node16 [label="the"]
+Node18 [label="3"]
+Node18 -> Node19
+Node18 -> Node21
+Node23 [label="2"]
+Node23 -> Node24
+Node27 [label="who"]
+Node29 [label="2"]
+Node29 -> Node30
+Node31 [label="2"]
+Node31 -> Node32
+Node19 [label="2"]
+Node19 -> Node20
+Node21 [label="2"]
+Node21 -> Node22
+Node24 [label="author"]
+Node30 [label="ever"]
+Node32 [label="lived"]
+Node20 [label="most"]
+Node22 [label="famous"]
+}

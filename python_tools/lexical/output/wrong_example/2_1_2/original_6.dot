@@ -1,0 +1,52 @@
+digraph G{Node0 [label="2"]
+Node0 -> Node1
+Node0 -> Node3
+Node1 [label="2"]
+Node1 -> Node2
+Node3 [label="1"]
+Node3 -> Node4
+Node3 -> Node6
+Node2 [label="Though"]
+Node4 [label="2"]
+Node4 -> Node5
+Node6 [label="1"]
+Node6 -> Node7
+Node6 -> Node9
+Node5 [label="it"]
+Node7 [label="2"]
+Node7 -> Node8
+Node9 [label="1"]
+Node9 -> Node10
+Node9 -> Node12
+Node8 [label="is"]
+Node10 [label="2"]
+Node10 -> Node11
+Node12 [label="1"]
+Node12 -> Node13
+Node12 -> Node18
+Node11 [label="by"]
+Node13 [label="2"]
+Node13 -> Node14
+Node13 -> Node16
+Node18 [label="4"]
+Node18 -> Node19
+Node18 -> Node21
+Node14 [label="1"]
+Node14 -> Node15
+Node16 [label="2"]
+Node16 -> Node17
+Node19 [label="2"]
+Node19 -> Node20
+Node21 [label="4"]
+Node21 -> Node22
+Node21 -> Node24
+Node15 [label="no"]
+Node17 [label="means"]
+Node20 [label="his"]
+Node22 [label="4"]
+Node22 -> Node23
+Node24 [label="2"]
+Node24 -> Node25
+Node23 [label="best"]
+Node25 [label="work"]
+}

@@ -1,0 +1,22 @@
+digraph G{Node0 [label="3"]
+Node0 -> Node1
+Node0 -> Node3
+Node1 [label="2"]
+Node1 -> Node2
+Node3 [label="3"]
+Node3 -> Node4
+Node3 -> Node9
+Node2 [label="the"]
+Node4 [label="2"]
+Node4 -> Node5
+Node4 -> Node7
+Node9 [label="2"]
+Node9 -> Node10
+Node5 [label="2"]
+Node5 -> Node6
+Node7 [label="2"]
+Node7 -> Node8
+Node10 [label="romantic"]
+Node6 [label="latent"]
+Node8 [label="15-year-old"]
+}

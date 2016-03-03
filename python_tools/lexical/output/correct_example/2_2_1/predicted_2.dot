@@ -1,0 +1,10 @@
+digraph G{Node0 [label="1"]
+Node0 -> Node1
+Node0 -> Node3
+Node1 [label="2"]
+Node1 -> Node2
+Node3 [label="2"]
+Node3 -> Node4
+Node2 [label="overly"]
+Node4 [label="talky"]
+}

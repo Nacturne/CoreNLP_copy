@@ -1,0 +1,88 @@
+digraph G{Node0 [label="2"]
+Node0 -> Node1
+Node0 -> Node3
+Node1 [label="2"]
+Node1 -> Node2
+Node3 [label="1"]
+Node3 -> Node4
+Node3 -> Node42
+Node2 [label="Manages"]
+Node4 [label="2"]
+Node4 -> Node5
+Node4 -> Node7
+Node42 [label="2"]
+Node42 -> Node43
+Node5 [label="2"]
+Node5 -> Node6
+Node7 [label="2"]
+Node7 -> Node8
+Node7 -> Node16
+Node43 [label="."]
+Node6 [label="to"]
+Node8 [label="3"]
+Node8 -> Node9
+Node8 -> Node14
+Node16 [label="1"]
+Node16 -> Node17
+Node16 -> Node19
+Node9 [label="2"]
+Node9 -> Node10
+Node9 -> Node12
+Node14 [label="2"]
+Node14 -> Node15
+Node17 [label="2"]
+Node17 -> Node18
+Node19 [label="2"]
+Node19 -> Node20
+Node19 -> Node22
+Node10 [label="2"]
+Node10 -> Node11
+Node12 [label="3"]
+Node12 -> Node13
+Node15 [label=","]
+Node18 [label="even"]
+Node20 [label="2"]
+Node20 -> Node21
+Node22 [label="1"]
+Node22 -> Node23
+Node22 -> Node25
+Node11 [label="be"]
+Node13 [label="original"]
+Node21 [label="though"]
+Node23 [label="2"]
+Node23 -> Node24
+Node25 [label="0"]
+Node25 -> Node26
+Node25 -> Node31
+Node24 [label="it"]
+Node26 [label="1"]
+Node26 -> Node27
+Node26 -> Node29
+Node31 [label="2"]
+Node31 -> Node32
+Node31 -> Node34
+Node27 [label="2"]
+Node27 -> Node28
+Node29 [label="1"]
+Node29 -> Node30
+Node32 [label="2"]
+Node32 -> Node33
+Node34 [label="2"]
+Node34 -> Node35
+Node34 -> Node37
+Node28 [label="rips"]
+Node30 [label="off"]
+Node33 [label="many"]
+Node35 [label="2"]
+Node35 -> Node36
+Node37 [label="2"]
+Node37 -> Node38
+Node37 -> Node40
+Node36 [label="of"]
+Node38 [label="2"]
+Node38 -> Node39
+Node40 [label="2"]
+Node40 -> Node41
+Node39 [label="its"]
+Node41 [label="ideas"]
+}

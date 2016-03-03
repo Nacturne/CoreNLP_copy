@@ -1,0 +1,136 @@
+digraph G{Node0 [label="3"]
+Node0 -> Node1
+Node0 -> Node36
+Node1 [label="2"]
+Node1 -> Node2
+Node1 -> Node34
+Node36 [label="2"]
+Node36 -> Node37
+Node36 -> Node39
+Node2 [label="3"]
+Node2 -> Node3
+Node2 -> Node32
+Node34 [label="2"]
+Node34 -> Node35
+Node37 [label="2"]
+Node37 -> Node38
+Node39 [label="2"]
+Node39 -> Node40
+Node39 -> Node42
+Node3 [label="2"]
+Node3 -> Node4
+Node3 -> Node6
+Node32 [label="2"]
+Node32 -> Node33
+Node35 [label="but"]
+Node38 [label="I"]
+Node40 [label="2"]
+Node40 -> Node41
+Node42 [label="2"]
+Node42 -> Node43
+Node42 -> Node45
+Node4 [label="2"]
+Node4 -> Node5
+Node6 [label="2"]
+Node6 -> Node7
+Node6 -> Node18
+Node33 [label=","]
+Node41 [label="was"]
+Node43 [label="3"]
+Node43 -> Node44
+Node45 [label="1"]
+Node45 -> Node46
+Node45 -> Node48
+Node5 [label="I"]
+Node7 [label="3"]
+Node7 -> Node8
+Node7 -> Node10
+Node18 [label="2"]
+Node18 -> Node19
+Node18 -> Node21
+Node44 [label="surprised"]
+Node46 [label="2"]
+Node46 -> Node47
+Node48 [label="1"]
+Node48 -> Node49
+Node48 -> Node54
+Node8 [label="3"]
+Node8 -> Node9
+Node10 [label="2"]
+Node10 -> Node11
+Node10 -> Node13
+Node19 [label="2"]
+Node19 -> Node20
+Node21 [label="2"]
+Node21 -> Node22
+Node21 -> Node24
+Node47 [label="at"]
+Node49 [label="2"]
+Node49 -> Node50
+Node49 -> Node52
+Node54 [label="1"]
+Node54 -> Node55
+Node54 -> Node57
+Node9 [label="enjoyed"]
+Node11 [label="2"]
+Node11 -> Node12
+Node13 [label="2"]
+Node13 -> Node14
+Node13 -> Node16
+Node20 [label="while"]
+Node22 [label="2"]
+Node22 -> Node23
+Node24 [label="2"]
+Node24 -> Node25
+Node24 -> Node27
+Node50 [label="2"]
+Node50 -> Node51
+Node52 [label="2"]
+Node52 -> Node53
+Node55 [label="2"]
+Node55 -> Node56
+Node57 [label="1"]
+Node57 -> Node58
+Node57 -> Node60
+Node12 [label="Time"]
+Node14 [label="2"]
+Node14 -> Node15
+Node16 [label="3"]
+Node16 -> Node17
+Node23 [label="I"]
+Node25 [label="2"]
+Node25 -> Node26
+Node27 [label="2"]
+Node27 -> Node28
+Node27 -> Node30
+Node51 [label="how"]
+Node53 [label="quickly"]
+Node56 [label="it"]
+Node58 [label="2"]
+Node58 -> Node59
+Node60 [label="1"]
+Node60 -> Node61
+Node60 -> Node63
+Node15 [label="of"]
+Node17 [label="Favor"]
+Node26 [label="was"]
+Node28 [label="2"]
+Node28 -> Node29
+Node30 [label="2"]
+Node30 -> Node31
+Node59 [label="faded"]
+Node61 [label="2"]
+Node61 -> Node62
+Node63 [label="2"]
+Node63 -> Node64
+Node63 -> Node66
+Node29 [label="watching"]
+Node31 [label="it"]
+Node62 [label="from"]
+Node64 [label="2"]
+Node64 -> Node65
+Node66 [label="2"]
+Node66 -> Node67
+Node65 [label="my"]
+Node67 [label="memory"]
+}
