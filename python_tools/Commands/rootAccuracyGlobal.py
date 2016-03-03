@@ -42,5 +42,5 @@ with warnings.catch_warnings():
     root_predicted['score'].replace([0,4],[1,3],inplace=True)
 '''
 
-print("The global F1 score on root is:")
+print("The global accuracy score on root is:")
 print(metrics.accuracy_score(root_original['score'], root_predicted['score']))
