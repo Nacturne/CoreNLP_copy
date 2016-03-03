@@ -1,7 +1,4 @@
-leaf=2
-for num in 1 2 3
+for num in 0 1 2 3 4 5 6 7 8 9
 do
-	echo "Run for repeat ${num}:"
-	python Commands/rootF1Global.py input/original/test.txt input/logistic/logistic_leaf${leaf}_re${num}_test.txt
-	echo "\n"
+	python Commands/rootRecall.py input/original/test.txt input/full_hid25_re/full_hid25_re${num}/root_test.txt
 done
